@@ -2,7 +2,7 @@
 layout: post
 title: Syntax Highlighting Post
 description: "Demo post displaying the various ways of highlighting code in Markdown."
-author: kuoa
+author: liuxin
 tags: post, code, highlighting
 category: syntax
 ---

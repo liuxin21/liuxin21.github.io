@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
+**Hi i'm Xin!** and here is the place where I share my notes.
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com
+* Mail: x399liu[at]edu[dot]uwaterloo[dot]com
