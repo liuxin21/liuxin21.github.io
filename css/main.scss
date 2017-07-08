@@ -1,36 +1,35 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
-
-
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Lato', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
+$post-font-family: 'Quicksand', Heltvetica, sans-serif;
+$small-font-size:  $base-font-size * 0.895;
+$large-font-size:  $base-font-size * 1.40;
+
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #454545;
+$background-color: #fff;
+$brand-color:      #5aa3d1; //#eb5a5b;
+$brand-color-light:lighten($brand-color, 20%);
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: lighten($grey-color, 20%);
+$grey-color-dark:  darken($grey-color, 15%);
 
 // Width of the content area
 $content-width:    800px;
-
-$on-palm:          600px;
+$on-palm:          800px;
 $on-laptop:        800px;
 
 
 
-// Use media queries like this:
+// Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
@@ -42,8 +41,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
