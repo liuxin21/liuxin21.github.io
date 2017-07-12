@@ -666,6 +666,16 @@
 					<integer>7</integer>
 				</dict>
 			</dict>
+			<key>2017-07-01-cfd.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521516731.15858197</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
 			<key>fenics.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -881,6 +891,9 @@
 		<array>
 			<string>2017-06-23-fe4.md</string>
 		</array>
+		<array>
+			<string>2017-07-01-cfd.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -889,7 +902,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>8</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 </dict>
