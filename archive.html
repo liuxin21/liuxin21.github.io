@@ -15,16 +15,42 @@ permalink: /archive/
 
 {% assign category = categories | split:',' | sort %}
 
-<ul>
+
 {% for item in (0..site.categories.size) %}
 	{% unless forloop.last %}
     	{% capture cat %}
     		{{ category[item] | strip_newlines }}
     	{% endcapture %}
-    <li><a href="#{{ cat }}">{{ cat }}&nbsp;<sup>{{ site.categories[cat].size }}</sup></a></li>
+    <li><a href="#{{ cat }}">{{ cat }}&nbsp;<sup>{{ site.categories[cat].size }}</sup></a>,&nbsp;</li>
     {% endunless %}
 {% endfor %}
-</ul>
+
+
+
+
+
+
+{% for item in (0..site.categories.size) %}
+	{% unless forloop.last %}
+	{% capture cat %}
+		{{ category[item] | strip_newlines }}
+	{% endcapture %}
+
+	<h2 class="category" id="{{ cat }}">{{ car }}</h2>
+
+	{% for post in site.categories[cat] %}
+		{% if post.title != null %}
+			<ul><li>{{ post.date | date: "%Y-%m-%d" }}&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li></ul>
+		{% endif %}
+	{% endfor %}
+	{% endunless %}
+{% endfor %}
+
+
+
+
+
+
 
 
 	{% for category in site.categories %}
