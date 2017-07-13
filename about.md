@@ -3,46 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!-- banner -->
-<section id="banner" class="style2">
-  <div class="inner">
-<!-- 图片背景 -->
-    <span class="image">
-    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
-    </span>
-<!-- 题目 -->
-    <header class="major">
-    <h1>{{ page.title }}</h1>
-    </header>
-<!-- 描述 -->
-    <div class="content">
-    {{ page.description }}
-    </div>
-  </div>
-</section>
+我叫刘鑫，现在university of waterloo就读mns。
 
-<!-- 左右样式 -->
-<div id="main">
-<section id="two" class="spotlights">
+兴趣：摄影，绘画，吉他，篮球，设计，制作视频，3d打印，仿真模拟。
 
-<!-- 模块1 -->
-<section>
-<!-- 模块1媒体 -->
-<link rel="stylesheet" href="/assets/css/swiper.min.css">
-<style>
-    body {}
-    .swiper-container {
-          width: 100%;
-          padding-top: 50px;
-          padding-bottom: 50px;
-      }
-    .swiper-slide {
-          background-position: center;
-          background-size: cover;
-          width: 300px;
-          height: 300px;
-      }
-</style>
+邮箱：x399liu@edu.uwaterloo.ca
 
 <div class="swiper-container">
         <div class="swiper-wrapper">
