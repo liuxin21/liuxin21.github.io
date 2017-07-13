@@ -9,6 +9,14 @@ permalink: /archive/
 	{% for category in site.categories %}
 	{% capture cat %}{{ category | first }}{% endcapture %}
 
+<ul>
+    {% for item in (0..site.categories.size) %}{% unless forloop.last %}
+    {% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
+    <li><a href="#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a></li>
+    {% endunless %}{% endfor %}
+</ul>
+
+
 	<h2>{{ cat | capitalize }}</h2>
 		<ul class="post-list">
 		{% for post in site.categories[cat] %}
