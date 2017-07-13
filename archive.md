@@ -18,7 +18,7 @@ permalink: /archive/
 {% for item in (0..site.categories.size) %}
 	{% unless forloop.last %}
     	{% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
-		<a href="#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a>&nbsp;&nbsp;
+		<a href="#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a>&nbsp;
     {% endunless %}
 {% endfor %}
 <br/><br/>
@@ -32,7 +32,7 @@ permalink: /archive/
 
 		{% for post in site.categories[word] %}
 			{% if post.title != null %}
-				<li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="post-date">{{ post.date | date_to_long_string }}</span></li>
+			<ul><li>{{ post.date | date: "%Y-%m-%d" }}&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li></ul>
 			{% endif %}
 
 			{% if post.tags %}
