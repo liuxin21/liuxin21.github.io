@@ -20,7 +20,7 @@ links:
     external:     false
     external:     false
   - name:         Web
-    url:          liuxin.in
+    url:          www.liuxin.in
     external:     true
 
 # Build settings
