@@ -111,7 +111,7 @@ permalink: /about/
 
 ## 喜欢篮球
 这是我高中时打完球和老班的合照，记得那次比赛班里没来一个女生加油，最后还是争气地赢了:)
-[](http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg)
+![](http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg)
 
 ## 喜欢吉他
 电吉他，木吉他，你要哪一个？
