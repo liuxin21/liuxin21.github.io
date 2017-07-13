@@ -612,82 +612,114 @@
 			</dict>
 			<key>2017-06-19-fe0.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603826.87562102</real>
 				<key>lastModification</key>
-				<real>521405418.02713102</real>
+				<real>521603826.87562102</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>13</integer>
 				</dict>
 			</dict>
 			<key>2017-06-20-fe1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603826.95827901</real>
 				<key>lastModification</key>
-				<real>521405418.02712399</real>
+				<real>521603826.95827901</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>14</integer>
 				</dict>
 			</dict>
 			<key>2017-06-21-fe2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603826.96322298</real>
 				<key>lastModification</key>
-				<real>521405418.02713102</real>
+				<real>521603826.96322298</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>2017-06-22-fe3.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603826.96772802</real>
 				<key>lastModification</key>
-				<real>521405418.02713197</real>
+				<real>521603826.96772802</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>16</integer>
 				</dict>
 			</dict>
 			<key>2017-06-23-fe4.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603826.98128802</real>
 				<key>lastModification</key>
-				<real>521405418.027134</real>
+				<real>521603826.98128802</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>17</integer>
 				</dict>
 			</dict>
 			<key>2017-06-23-fe5.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603826.98756301</real>
 				<key>lastModification</key>
-				<real>521410743.317882</real>
+				<real>521603826.98756301</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>7</integer>
+					<integer>18</integer>
 				</dict>
 			</dict>
 			<key>2017-07-01-cfd.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521604918.57729399</real>
 				<key>lastModification</key>
-				<real>521516731.15858197</real>
+				<real>521604918.57729399</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>11</integer>
+					<integer>23</integer>
 				</dict>
 			</dict>
 			<key>fenics.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521603827.00178498</real>
 				<key>lastModification</key>
-				<real>521405418.02713001</real>
+				<real>521603827.00178498</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>20</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -910,12 +942,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>1</integer>
+			<integer>3</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>12</integer>
+			<integer>24</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
