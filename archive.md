@@ -9,15 +9,14 @@ permalink: /archive/
 {% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign category = categories | split:',' | sort %}
 
-## 全部主题
 
 {% for item in (0..site.categories.size) %}
 	{% unless forloop.last %}
     	{% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
-		<a href="#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a>,&nbsp;
+		<a href="#{{ word }}">{{ word }}&nbsp;<sup>{{ site.categories[word].size }}</sup></a>&nbsp;&nbsp;&nbsp;
     {% endunless %}
 {% endfor %}
-
+<br/><br/>
 
 
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
