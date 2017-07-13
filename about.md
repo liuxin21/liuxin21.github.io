@@ -9,6 +9,25 @@ permalink: /about/
 
 邮箱：x399liu@edu.uwaterloo.ca
 
+<!-- 模块1 -->
+<section>
+<!-- 模块1媒体 -->
+<link rel="stylesheet" href="/css/swiper.min.css">
+<style>
+    body {}
+    .swiper-container {
+          width: 100%;
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+    .swiper-slide {
+          background-position: center;
+          background-size: cover;
+          width: 300px;
+          height: 300px;
+      }
+</style>
+
 <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1zjvo4j20q90higqh.jpg)"></div>
@@ -30,7 +49,7 @@ permalink: /about/
   <div class="swiper-pagination"></div>
 </div>
 
-<script src="/assets/js/swiper.min.js"></script>
+<script src="/js/swiper.min.js"></script>
 
 <script>
 var swiper = new Swiper('.swiper-container', {
