@@ -24,7 +24,7 @@ permalink: /archive/
 <h2 class="post-list" id="{{ word }}">{{ word }}</h2>
 
 {% for post in site.categories[word] %}{% if post.title != null %}
-<ul><li>{{ post.date | date: "%Y-%m-%d" }}&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li></ul>
+<li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="post-date">{{ post.date | date_to_long_string }}</span></li>
 {% endif %}
 {% if post.tags %}
 			<div class="post-tags">
