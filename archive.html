@@ -6,13 +6,26 @@ permalink: /archive/
 ---
 
 <div class="home">
-<ul>
+
+{% capture categories %}
 	{% for category in site.categories %}
-	{% capture cat %}{{ category | first }}{% endcapture %}
-	
-    <li><a href="#{{ cat }}">{{ cat }}</a></li>
-    {% endunless %}{% endfor %}
+		{{ category | first }}{% unless forloop.last %},{% endunless %}
+	{% endfor %}
+{% endcapture %}
+
+{% assign category = categories | split:',' | sort %}
+
+<ul>
+{% for item in (0..site.categories.size) %}
+	{% unless forloop.last %}
+    	{% capture cat %}
+    		{{ category[item] | strip_newlines }}
+    	{% endcapture %}
+    <li><a href="#{{ cat }}">{{ cat }}&nbsp;<sup>{{ site.categories[cat].size }}</sup></a></li>
+    {% endunless %}
+{% endfor %}
 </ul>
+
 
 	{% for category in site.categories %}
 	{% capture cat %}{{ category | first }}{% endcapture %}
