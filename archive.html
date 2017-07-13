@@ -6,17 +6,17 @@ permalink: /archive/
 ---
 
 <div class="home">
+<ul>
 	{% for category in site.categories %}
 	{% capture cat %}{{ category | first }}{% endcapture %}
-
-<ul>
+	
     <li><a href="#{{ cat }}">{{ cat }}</a></li>
     {% endunless %}{% endfor %}
 </ul>
 
 	{% for category in site.categories %}
 	{% capture cat %}{{ category | first }}{% endcapture %}
-	
+
 	<h2>{{ cat | capitalize }}</h2>
 		<ul class="post-list" id="{{ cat }}">
 		{% for post in site.categories[cat] %}
