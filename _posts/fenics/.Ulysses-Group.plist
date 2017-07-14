@@ -6,64 +6,74 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2017-06-19-fe0.md</key>
+			<key>2017-06-18-fe.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521604866.356457</real>
+				<real>521686620.16219902</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>2017-06-19-fe.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521686623.90315998</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>11</integer>
 				</dict>
 			</dict>
 			<key>2017-06-20-fe1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521604866.35645598</real>
+				<real>521686926.807657</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>20</integer>
 				</dict>
 			</dict>
 			<key>2017-06-21-fe2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521604866.356457</real>
+				<real>521687199.71408403</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>26</integer>
 				</dict>
 			</dict>
 			<key>2017-06-22-fe3.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521604866.356457</real>
+				<real>521687189.04964298</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>24</integer>
 				</dict>
 			</dict>
 			<key>2017-06-23-fe4.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521604866.356457</real>
+				<real>521687327.694552</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>34</integer>
 				</dict>
 			</dict>
-			<key>2017-06-23-fe5.md</key>
+			<key>2017-06-24-fe5.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521604866.35645801</real>
+				<real>521687290.70317</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>32</integer>
 				</dict>
 			</dict>
 			<key>2017-07-01-cfd.md</key>
@@ -104,25 +114,28 @@
 			<string>2017-07-01-cfd.md</string>
 		</array>
 		<array>
+			<string>2017-06-24-fe5.md</string>
+		</array>
+		<array>
 			<string>2017-06-20-fe1.md</string>
 		</array>
 		<array>
 			<string>fenics.md</string>
 		</array>
 		<array>
-			<string>2017-06-21-fe2.md</string>
+			<string>2017-06-18-fe.md</string>
 		</array>
 		<array>
-			<string>2017-06-19-fe0.md</string>
+			<string>2017-06-19-fe.md</string>
 		</array>
 		<array>
 			<string>2017-06-22-fe3.md</string>
 		</array>
 		<array>
-			<string>2017-06-23-fe4.md</string>
+			<string>2017-06-21-fe2.md</string>
 		</array>
 		<array>
-			<string>2017-06-23-fe5.md</string>
+			<string>2017-06-23-fe4.md</string>
 		</array>
 	</array>
 	<key>sheetOrder</key>
@@ -134,7 +147,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>6</integer>
+			<integer>35</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
