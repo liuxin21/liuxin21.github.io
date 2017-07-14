@@ -568,32 +568,44 @@
 			</dict>
 			<key>2017-06-01-di1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686287.60674602</real>
 				<key>lastModification</key>
-				<real>521405418.02711803</real>
+				<real>521686287.60674602</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>43</integer>
 				</dict>
 			</dict>
 			<key>2017-06-02-di2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686287.61291599</real>
 				<key>lastModification</key>
-				<real>521405418.02711898</real>
+				<real>521686287.61291599</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>44</integer>
 				</dict>
 			</dict>
 			<key>2017-06-02-di3.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686287.61512297</real>
 				<key>lastModification</key>
-				<real>521405418.02711999</real>
+				<real>521686287.61512297</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>45</integer>
 				</dict>
 			</dict>
 			<key>2017-06-05-PF.md</key>
@@ -628,42 +640,58 @@
 			</dict>
 			<key>2017-06-08-tf1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686245.78068101</real>
 				<key>lastModification</key>
-				<real>521405418.02712202</real>
+				<real>521686245.78068101</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>39</integer>
 				</dict>
 			</dict>
 			<key>2017-06-09-tf2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686245.798401</real>
 				<key>lastModification</key>
-				<real>521405418.02712202</real>
+				<real>521686245.798401</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>40</integer>
 				</dict>
 			</dict>
 			<key>2017-06-10-tf3.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686245.80204898</real>
 				<key>lastModification</key>
-				<real>521405418.02712297</real>
+				<real>521686245.80204898</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>41</integer>
 				</dict>
 			</dict>
 			<key>2017-06-12-tf3.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521686245.80329102</real>
 				<key>lastModification</key>
-				<real>521405418.02712297</real>
+				<real>521686245.80329102</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>42</integer>
 				</dict>
 			</dict>
 			<key>2017-06-19-fe0.md</key>
@@ -998,12 +1026,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>5</integer>
+			<integer>6</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>38</integer>
+			<integer>45</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
