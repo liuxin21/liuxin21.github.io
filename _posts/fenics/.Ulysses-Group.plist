@@ -46,6 +46,16 @@
 					<integer>26</integer>
 				</dict>
 			</dict>
+			<key>2017-06-21-fe3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521776906.32890201</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>42</integer>
+				</dict>
+			</dict>
 			<key>2017-06-22-fe3.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -124,6 +134,9 @@
 			<string>2017-07-01-cfd.md</string>
 		</array>
 		<array>
+			<string>2017-06-21-fe3.md</string>
+		</array>
+		<array>
 			<string>2017-06-25-fe6.md</string>
 		</array>
 		<array>
@@ -160,7 +173,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>39</integer>
+			<integer>43</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
