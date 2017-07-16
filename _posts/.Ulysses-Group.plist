@@ -488,42 +488,58 @@
 			</dict>
 			<key>2017-05-04-dns.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521876505.118478</real>
 				<key>lastModification</key>
-				<real>521405418.02710998</real>
+				<real>521876505.118478</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>46</integer>
 				</dict>
 			</dict>
 			<key>2017-05-04-dns2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521876505.12248099</real>
 				<key>lastModification</key>
-				<real>521405418.02711099</real>
+				<real>521876505.12248099</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>48</integer>
 				</dict>
 			</dict>
 			<key>2017-05-04-dns3.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521876505.12046701</real>
 				<key>lastModification</key>
-				<real>521405418.02711201</real>
+				<real>521876505.12046701</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>47</integer>
 				</dict>
 			</dict>
 			<key>2017-05-05-dns4.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521876505.13094699</real>
 				<key>lastModification</key>
-				<real>521405418.02711302</real>
+				<real>521876505.13094699</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>49</integer>
 				</dict>
 			</dict>
 			<key>2017-05-23-intro9.md</key>
@@ -1031,7 +1047,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>45</integer>
+			<integer>49</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
