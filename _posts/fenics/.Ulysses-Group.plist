@@ -36,6 +36,36 @@
 					<integer>20</integer>
 				</dict>
 			</dict>
+			<key>2017-06-21-fe2-2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522194197.31762701</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>58</integer>
+				</dict>
+			</dict>
+			<key>2017-06-21-fe2-3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522194202.355461</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>60</integer>
+				</dict>
+			</dict>
+			<key>2017-06-21-fe2-4.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522194206.97841299</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>62</integer>
+				</dict>
+			</dict>
 			<key>2017-06-21-fe2.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -44,16 +74,6 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>26</integer>
-				</dict>
-			</dict>
-			<key>2017-06-21-fe3.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>521776906.32890201</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>42</integer>
 				</dict>
 			</dict>
 			<key>2017-06-22-fe3.md</key>
@@ -134,7 +154,10 @@
 			<string>2017-07-01-cfd.md</string>
 		</array>
 		<array>
-			<string>2017-06-21-fe3.md</string>
+			<string>2017-06-21-fe2-2.md</string>
+		</array>
+		<array>
+			<string>2017-06-21-fe2-3.md</string>
 		</array>
 		<array>
 			<string>2017-06-25-fe6.md</string>
@@ -163,6 +186,9 @@
 		<array>
 			<string>2017-06-23-fe4.md</string>
 		</array>
+		<array>
+			<string>2017-06-21-fe2-4.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>title</string>
@@ -173,7 +199,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>45</integer>
+			<integer>63</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
