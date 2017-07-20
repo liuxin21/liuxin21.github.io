@@ -116,32 +116,14 @@
 					<integer>38</integer>
 				</dict>
 			</dict>
-			<key>2017-07-01-cfd.md</key>
+			<key>2017-06-26-fe7.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521604875.16451597</real>
 				<key>lastModification</key>
-				<real>521604875.16451597</real>
+				<real>522264707.29977697</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
-			<key>fenics.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521605832.93940502</real>
-				<key>lastModification</key>
-				<real>521605832.93940502</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>6</integer>
+					<integer>72</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -151,7 +133,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-07-01-cfd.md</string>
+			<string>2017-06-26-fe7.md</string>
 		</array>
 		<array>
 			<string>2017-06-21-fe2-2.md</string>
@@ -167,9 +149,6 @@
 		</array>
 		<array>
 			<string>2017-06-20-fe1.md</string>
-		</array>
-		<array>
-			<string>fenics.md</string>
 		</array>
 		<array>
 			<string>2017-06-18-fe.md</string>
@@ -199,7 +178,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>63</integer>
+			<integer>73</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
