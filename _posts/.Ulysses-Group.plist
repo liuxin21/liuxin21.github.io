@@ -62,22 +62,30 @@
 			</dict>
 			<key>2017-02-10-intro2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731738.54009902</real>
 				<key>lastModification</key>
-				<real>521405418.02711201</real>
+				<real>522731738.54009902</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>64</integer>
 				</dict>
 			</dict>
 			<key>2017-02-11-intro2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731738.56089801</real>
 				<key>lastModification</key>
-				<real>521405418.02709901</real>
+				<real>522731738.56089801</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>65</integer>
 				</dict>
 			</dict>
 			<key>2017-02-12-intro3.md</key>
@@ -92,22 +100,30 @@
 			</dict>
 			<key>2017-02-13-intro4.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731808.27938998</real>
 				<key>lastModification</key>
-				<real>521405418.02710098</real>
+				<real>522731808.27938998</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>66</integer>
 				</dict>
 			</dict>
 			<key>2017-02-14-intro5.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731808.28153902</real>
 				<key>lastModification</key>
-				<real>521405418.02710098</real>
+				<real>522731808.28153902</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>67</integer>
 				</dict>
 			</dict>
 			<key>2017-03-21-f1.md</key>
@@ -224,42 +240,58 @@
 			</dict>
 			<key>2017-03-24-intro6.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731808.28318697</real>
 				<key>lastModification</key>
-				<real>521405418.02711099</real>
+				<real>522731808.28318697</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>68</integer>
 				</dict>
 			</dict>
 			<key>2017-03-25-intro7.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731808.28507298</real>
 				<key>lastModification</key>
-				<real>521405418.02711302</real>
+				<real>522731808.28507298</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>69</integer>
 				</dict>
 			</dict>
 			<key>2017-03-26-intro8.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731808.28751498</real>
 				<key>lastModification</key>
-				<real>521405418.02711302</real>
+				<real>522731808.28751498</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>70</integer>
 				</dict>
 			</dict>
 			<key>2017-03-31-intro.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731822.39493698</real>
 				<key>lastModification</key>
-				<real>521405418.02711803</real>
+				<real>522731822.39493698</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>71</integer>
 				</dict>
 			</dict>
 			<key>2017-04-01-c1.md</key>
@@ -346,100 +378,60 @@
 					<integer>55</integer>
 				</dict>
 			</dict>
-			<key>2017-05-04-dns.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521876505.118478</real>
-				<key>lastModification</key>
-				<real>521876505.118478</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>46</integer>
-				</dict>
-			</dict>
-			<key>2017-05-04-dns2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521876505.12248099</real>
-				<key>lastModification</key>
-				<real>521876505.12248099</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>48</integer>
-				</dict>
-			</dict>
-			<key>2017-05-04-dns3.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521876505.12046701</real>
-				<key>lastModification</key>
-				<real>521876505.12046701</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>47</integer>
-				</dict>
-			</dict>
-			<key>2017-05-05-dns4.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521876505.13094699</real>
-				<key>lastModification</key>
-				<real>521876505.13094699</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>49</integer>
-				</dict>
-			</dict>
 			<key>2017-05-23-intro9.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731845.26931202</real>
 				<key>lastModification</key>
-				<real>521405418.02711397</real>
+				<real>522731845.26931202</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>72</integer>
 				</dict>
 			</dict>
 			<key>2017-05-24-intro10.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731845.27162701</real>
 				<key>lastModification</key>
-				<real>521405418.02711397</real>
+				<real>522731845.27162701</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>73</integer>
 				</dict>
 			</dict>
 			<key>2017-05-24-intro11.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731845.27530301</real>
 				<key>lastModification</key>
-				<real>521405418.02711499</real>
+				<real>522731845.27530301</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>74</integer>
 				</dict>
 			</dict>
 			<key>2017-05-24-intro12.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731845.28049999</real>
 				<key>lastModification</key>
-				<real>521405418.02711999</real>
+				<real>522731845.28049999</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>75</integer>
 				</dict>
 			</dict>
 			<key>2017-06-05-PF.md</key>
@@ -464,12 +456,16 @@
 			</dict>
 			<key>2017-06-07-intro14.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522731879.09813702</real>
 				<key>lastModification</key>
-				<real>521405418.02712101</real>
+				<real>522731879.09813702</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -545,16 +541,7 @@
 			<string>2017-05-01-c0.md</string>
 		</array>
 		<array>
-			<string>2017-05-04-dns.md</string>
-		</array>
-		<array>
 			<string>2017-03-24-intro6.md</string>
-		</array>
-		<array>
-			<string>2017-05-04-dns2.md</string>
-		</array>
-		<array>
-			<string>2017-05-04-dns3.md</string>
 		</array>
 		<array>
 			<string>2017-02-10-intro2.md</string>
@@ -564,9 +551,6 @@
 		</array>
 		<array>
 			<string>2017-03-25-intro7.md</string>
-		</array>
-		<array>
-			<string>2017-05-05-dns4.md</string>
 		</array>
 		<array>
 			<string>2017-05-23-intro9.md</string>
@@ -605,12 +589,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>8</integer>
+			<integer>9</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>63</integer>
+			<integer>76</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
