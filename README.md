@@ -1,4 +1,4 @@
-# Julia [![Demo](https://img.shields.io/badge/julia-demo-green.svg)](http://kuoa.github.io)
+# liuxin21 [![Demo](https://img.shields.io/badge/liuxin21-demo-green.svg)](http://liuxin21.github.io)
 
 A minimalistic jekyll theme
 
@@ -47,7 +47,7 @@ Edit the `_config.yml` file and make the theme yours.
  * To add links to the navbar edit the ```links``` section
 
 ---------------------------
-### Author  [![Twitter](https://img.shields.io/badge/kuoa-<3-66BAB7.svg)](https://github.com/kuoa)
+### Author  [![Twitter](https://img.shields.io/badge/liuxin-<3-66BAB7.svg)](https://github.com/liuxin21)
 
 ---------------------------
 ### License  [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/kuoa/julia/blob/master/LICENSE)
