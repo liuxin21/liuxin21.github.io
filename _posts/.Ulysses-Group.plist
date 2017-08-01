@@ -32,32 +32,44 @@
 			</dict>
 			<key>2017-01-19-summary.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523315508.986669</real>
 				<key>lastModification</key>
-				<real>521405418.02709401</real>
+				<real>523315508.986669</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>77</integer>
 				</dict>
 			</dict>
 			<key>2017-01-20-intro1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523315508.99651098</real>
 				<key>lastModification</key>
-				<real>521405418.02709901</real>
+				<real>523315508.99651098</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>78</integer>
 				</dict>
 			</dict>
 			<key>2017-01-20-intro2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523315508.99814802</real>
 				<key>lastModification</key>
-				<real>521405418.02711499</real>
+				<real>523315508.99814802</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>79</integer>
 				</dict>
 			</dict>
 			<key>2017-02-10-intro2.md</key>
@@ -90,12 +102,16 @@
 			</dict>
 			<key>2017-02-12-intro3.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523315508.999336</real>
 				<key>lastModification</key>
-				<real>521405418.02710003</real>
+				<real>523315508.999336</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>80</integer>
 				</dict>
 			</dict>
 			<key>2017-02-13-intro4.md</key>
@@ -124,118 +140,6 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>67</integer>
-				</dict>
-			</dict>
-			<key>2017-03-21-f1.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.31578398</real>
-				<key>lastModification</key>
-				<real>522388749.31578398</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>56</integer>
-				</dict>
-			</dict>
-			<key>2017-03-22-f2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.32397002</real>
-				<key>lastModification</key>
-				<real>522388749.32397002</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>57</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f3.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.32482201</real>
-				<key>lastModification</key>
-				<real>522388749.32482201</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>58</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f4.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.32623398</real>
-				<key>lastModification</key>
-				<real>522388749.32623398</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>59</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f5.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.32796597</real>
-				<key>lastModification</key>
-				<real>522388749.32796597</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>60</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f6.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.32863599</real>
-				<key>lastModification</key>
-				<real>522388749.32863599</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>61</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f7.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.33019698</real>
-				<key>lastModification</key>
-				<real>522388749.33019698</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>62</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f8.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388749.33231902</real>
-				<key>lastModification</key>
-				<real>522388749.33231902</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>63</integer>
 				</dict>
 			</dict>
 			<key>2017-03-24-intro6.md</key>
@@ -292,90 +196,6 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>71</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01-c1.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388519.95901299</real>
-				<key>lastModification</key>
-				<real>522388519.95901299</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>50</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01-c2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388519.973589</real>
-				<key>lastModification</key>
-				<real>522388519.973589</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>51</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01-c3.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388519.98590702</real>
-				<key>lastModification</key>
-				<real>522388519.98590702</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>52</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01-c4.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388519.99481201</real>
-				<key>lastModification</key>
-				<real>522388519.99481201</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>53</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01-c5.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388519.99570501</real>
-				<key>lastModification</key>
-				<real>522388519.99570501</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>54</integer>
-				</dict>
-			</dict>
-			<key>2017-05-01-c0.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522388519.99684399</real>
-				<key>lastModification</key>
-				<real>522388519.99684399</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>55</integer>
 				</dict>
 			</dict>
 			<key>2017-05-23-intro9.md</key>
@@ -436,22 +256,30 @@
 			</dict>
 			<key>2017-06-05-PF.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523315509.00083101</real>
 				<key>lastModification</key>
-				<real>521405418.02712101</real>
+				<real>523315509.00083101</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>81</integer>
 				</dict>
 			</dict>
 			<key>2017-06-06-intro13.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523315509.003326</real>
 				<key>lastModification</key>
-				<real>521405418.02711999</real>
+				<real>523315509.003326</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>82</integer>
 				</dict>
 			</dict>
 			<key>2017-06-07-intro14.md</key>
@@ -497,48 +325,6 @@
 		</array>
 		<array>
 			<string>2017-02-13-intro4.md</string>
-		</array>
-		<array>
-			<string>2017-03-21-f1.md</string>
-		</array>
-		<array>
-			<string>2017-03-22-f2.md</string>
-		</array>
-		<array>
-			<string>2017-03-23-f5.md</string>
-		</array>
-		<array>
-			<string>2017-03-23-f4.md</string>
-		</array>
-		<array>
-			<string>2017-03-23-f3.md</string>
-		</array>
-		<array>
-			<string>2017-03-23-f7.md</string>
-		</array>
-		<array>
-			<string>2017-03-23-f6.md</string>
-		</array>
-		<array>
-			<string>2017-03-23-f8.md</string>
-		</array>
-		<array>
-			<string>2017-04-01-c1.md</string>
-		</array>
-		<array>
-			<string>2017-04-01-c2.md</string>
-		</array>
-		<array>
-			<string>2017-04-01-c3.md</string>
-		</array>
-		<array>
-			<string>2017-04-01-c4.md</string>
-		</array>
-		<array>
-			<string>2017-04-01-c5.md</string>
-		</array>
-		<array>
-			<string>2017-05-01-c0.md</string>
 		</array>
 		<array>
 			<string>2017-03-24-intro6.md</string>
@@ -594,7 +380,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>76</integer>
+			<integer>82</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
