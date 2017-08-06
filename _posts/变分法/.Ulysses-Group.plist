@@ -26,6 +26,16 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>2017-08-01-variations3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523684067.02009201</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -36,6 +46,9 @@
 		<array>
 			<string>2017-08-01-variations2.md</string>
 		</array>
+		<array>
+			<string>2017-08-01-variations3.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -44,7 +57,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>10</integer>
+			<integer>14</integer>
 		</dict>
 	</dict>
 </dict>

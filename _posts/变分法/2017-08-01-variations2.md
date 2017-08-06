@@ -1,7 +1,7 @@
 ---
 layout: post
 author: liuxin
-title: 1-变分法近似解法
+title: 2-变分法近似解法
 date: 2017-08-02
 category: 变分法
 tags: calculus of variations 
