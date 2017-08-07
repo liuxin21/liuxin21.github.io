@@ -23,12 +23,22 @@ tags: calculus of variations
 
 ![][image-4]
 
-## 注释
+反求出I，我们知道 I 的一阶变分，与上面的加权积分形式是一样的。原来，$\delta y$ 就是v。
 
 ![][image-5]
+
+## Example2:
+
+![][image-6]
+
+## 注释
+
+![][image-7]
 
 [image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fiaw27g8gij20jb02rmxn.jpg
 [image-2]:	http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fiawxi3fzzj20kt050js0.jpg
 [image-3]:	http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fiawxjy0huj20kq02wwev.jpg
 [image-4]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fiawxlswh9j20i101y0su.jpg
-[image-5]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fiaw28zmuej20iy05h74w.jpg
+[image-5]:	http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fiaythj8auj20gx04aq3f.jpg
+[image-6]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fiaytj4a0wj20g605djs0.jpg
+[image-7]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fiaw28zmuej20iy05h74w.jpg
