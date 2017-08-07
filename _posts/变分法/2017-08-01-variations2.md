@@ -7,6 +7,7 @@ category: 变分法
 tags: calculus of variations 
 ---
 
+![][image-1]
 
 将微分方程乘以一个权函数（基函数），然后令加权积分为零
 
@@ -16,3 +17,5 @@ tags: calculus of variations
 
 
 ## 注释
+
+[image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fiaw27g8gij20jb02rmxn.jpg
