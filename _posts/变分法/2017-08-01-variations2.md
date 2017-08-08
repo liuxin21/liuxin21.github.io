@@ -31,9 +31,15 @@ tags: calculus of variations
 
 ![][image-6]
 
+> ![][image-7]
+
+![][image-8]
+
+![][image-9]
+
 ## 注释
 
-![][image-7]
+![][image-10]
 
 [image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fiaw27g8gij20jb02rmxn.jpg
 [image-2]:	http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fiawxi3fzzj20kt050js0.jpg
@@ -41,4 +47,7 @@ tags: calculus of variations
 [image-4]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fiawxlswh9j20i101y0su.jpg
 [image-5]:	http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fiaythj8auj20gx04aq3f.jpg
 [image-6]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fiaytj4a0wj20g605djs0.jpg
-[image-7]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fiaw28zmuej20iy05h74w.jpg
+[image-7]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fickqggrnrj20dn067t9k.jpg
+[image-8]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fickqifcsij20fx0e3jtb.jpg
+[image-9]:	http://wx2.sinaimg.cn/mw690/8db2c8cbgy1fickqkcv6zj20gj05yt9l.jpg
+[image-10]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fiaw28zmuej20iy05h74w.jpg
