@@ -48,9 +48,13 @@ tags: calculus of variations
 
 ![][image-11]
 
-## 注释
+## 总结
 
 ![][image-12]
+
+## 注释
+
+![][image-13]
 
 [image-1]:	http://wx2.sinaimg.cn/mw690/8db2c8cbgy1ficnnlgy4dj20i60egtb9.jpg
 [image-2]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fiaw27g8gij20jb02rmxn.jpg
@@ -63,4 +67,5 @@ tags: calculus of variations
 [image-9]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fickqifcsij20fx0e3jtb.jpg
 [image-10]:	http://wx2.sinaimg.cn/mw690/8db2c8cbgy1fickqkcv6zj20gj05yt9l.jpg
 [image-11]:	http://wx2.sinaimg.cn/mw690/8db2c8cbgy1ficnnnkdnqj20hl0cc763.jpg
-[image-12]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fiaw28zmuej20iy05h74w.jpg
+[image-12]:	http://wx2.sinaimg.cn/mw690/8db2c8cbgy1ficubsrdtgj20ei0af3zu.jpg
+[image-13]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fiaw28zmuej20iy05h74w.jpg
