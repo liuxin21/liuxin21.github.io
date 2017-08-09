@@ -116,12 +116,25 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>2017-08-08-paper.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524011116.79923701</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>2017-05-04-dns.md</string>
+		</array>
+		<array>
+			<string>2017-08-08-paper.md</string>
 		</array>
 		<array>
 			<string>2017-05-04-dns2.md</string>
@@ -161,7 +174,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>5</integer>
+			<integer>13</integer>
 		</dict>
 	</dict>
 </dict>
