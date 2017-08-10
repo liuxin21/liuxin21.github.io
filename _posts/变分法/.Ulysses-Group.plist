@@ -16,24 +16,34 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2017-08-01-variations2.md</key>
+			<key>2017-08-02-variations2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>523683698.636531</real>
+				<real>524022988.17248499</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>9</integer>
+					<integer>19</integer>
 				</dict>
 			</dict>
-			<key>2017-08-01-variations3.md</key>
+			<key>2017-08-03-variations3.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>523684067.02009201</real>
+				<real>524022997.49718201</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>13</integer>
+					<integer>21</integer>
+				</dict>
+			</dict>
+			<key>2017-08-04-variations.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524023029.353755</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>23</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -44,10 +54,13 @@
 			<string>2017-08-01-variations.md</string>
 		</array>
 		<array>
-			<string>2017-08-01-variations2.md</string>
+			<string>2017-08-02-variations2.md</string>
 		</array>
 		<array>
-			<string>2017-08-01-variations3.md</string>
+			<string>2017-08-03-variations3.md</string>
+		</array>
+		<array>
+			<string>2017-08-04-variations.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -57,7 +70,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>14</integer>
+			<integer>24</integer>
 		</dict>
 	</dict>
 </dict>
