@@ -2,33 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>order</key>
+	<key>childOrder</key>
 	<array>
-		<string>多相流/2017-08-10-time.md</string>
-		<string>fenics/2017-06-22-fe3.md</string>
+		<string>新建文件夹</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
-		<key>order</key>
+		<key>childOrder</key>
 		<dict>
-			<key>fenics/2017-06-22-fe3.md</key>
+			<key>新建文件夹</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>524472900.346012</real>
 				<key>lastModification</key>
-				<real>521776563.368334</real>
+				<real>524472900.346012</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>108</integer>
-				</dict>
-			</dict>
-			<key>多相流/2017-08-10-time.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524399693.25285399</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>245</integer>
+					<integer>3</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -37,10 +30,10 @@
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
-		<key>order</key>
+		<key>childOrder</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>249</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>

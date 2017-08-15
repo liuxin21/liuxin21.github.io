@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>PDE</string>
 		<string>变分法</string>
 		<string>cfd</string>
 		<string>cs</string>
@@ -27,6 +28,16 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>PDE</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524472964.73414302</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>16</integer>
 				</dict>
 			</dict>
 			<key>cfd</key>
@@ -142,104 +153,6 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>2017-01-19-summary.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523315508.986669</real>
-				<key>lastModification</key>
-				<real>523315508.986669</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>77</integer>
-				</dict>
-			</dict>
-			<key>2017-01-20-intro1.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523315508.99651098</real>
-				<key>lastModification</key>
-				<real>523315508.99651098</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>78</integer>
-				</dict>
-			</dict>
-			<key>2017-01-20-intro2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523315508.99814802</real>
-				<key>lastModification</key>
-				<real>523315508.99814802</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>79</integer>
-				</dict>
-			</dict>
-			<key>2017-02-12-intro3.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523315508.999336</real>
-				<key>lastModification</key>
-				<real>523315508.999336</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>80</integer>
-				</dict>
-			</dict>
-			<key>2017-06-05-PF.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523315509.00083101</real>
-				<key>lastModification</key>
-				<real>523315509.00083101</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>81</integer>
-				</dict>
-			</dict>
-			<key>2017-06-06-intro13.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523315509.003326</real>
-				<key>lastModification</key>
-				<real>523315509.003326</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>82</integer>
-				</dict>
-			</dict>
-			<key>2017-08-01-variations.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>523496616.42179799</real>
-				<key>lastModification</key>
-				<real>523496616.42179799</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>97</integer>
-				</dict>
-			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>521602181.02618802</real>
@@ -247,31 +160,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-08-01-variations.md</string>
-		</array>
-		<array>
 			<string>2016-01-01-sample-post.md</string>
 		</array>
 		<array>
 			<string>2017-01-01-Syntax.md</string>
-		</array>
-		<array>
-			<string>2017-01-19-summary.md</string>
-		</array>
-		<array>
-			<string>2017-01-20-intro1.md</string>
-		</array>
-		<array>
-			<string>2017-02-12-intro3.md</string>
-		</array>
-		<array>
-			<string>2017-01-20-intro2.md</string>
-		</array>
-		<array>
-			<string>2017-06-06-intro13.md</string>
-		</array>
-		<array>
-			<string>2017-06-05-PF.md</string>
 		</array>
 	</array>
 	<key>sheetOrder</key>
@@ -283,7 +175,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>13</integer>
+			<integer>16</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
