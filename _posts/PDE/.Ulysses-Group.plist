@@ -16,12 +16,29 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>e.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>524676239.00176501</real>
+				<key>lastModification</key>
+				<real>524676239.00176501</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>2017-08-10-intro.md</string>
+		</array>
+		<array>
+			<string>e.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -31,7 +48,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>4</integer>
+			<integer>9</integer>
 		</dict>
 	</dict>
 </dict>
