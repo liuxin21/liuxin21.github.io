@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>3D打印</string>
 		<string>PDE</string>
 		<string>变分法</string>
 		<string>cfd</string>
@@ -20,6 +21,16 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
+			<key>3D打印</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524877293.31906003</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>19</integer>
+				</dict>
+			</dict>
 			<key>Continuum Mechanics</key>
 			<dict>
 				<key>lastModification</key>
@@ -175,7 +186,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>16</integer>
+			<integer>19</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
