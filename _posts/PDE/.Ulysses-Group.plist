@@ -16,6 +16,16 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>2017-08-11-classification.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525224278.51961499</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
 			<key>e.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -40,6 +50,9 @@
 		<array>
 			<string>e.md</string>
 		</array>
+		<array>
+			<string>2017-08-11-classification.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -48,7 +61,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>9</integer>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>
