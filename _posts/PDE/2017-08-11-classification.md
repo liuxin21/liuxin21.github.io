@@ -18,7 +18,7 @@ tags: partial differential equations
 
 PDE的分类就从**a single second-order PDE** 来解释比较容易。
 所以在接下来的讨论中，最先分类的是 the **general quasilinear second-order non-homogenous PDE in two independent variables.**
-也就是：$$ Af_{xx} + Bf_{xy} + Cf\_{yy} + Df\_x + Ef\_y + Ff = G $$
+也就是：$$ Af_{xx} + Bf_{xy} + Cf_{yy} + Df_x + Ef_y + Ff = G $$
 
 上面这个式子可以分三类，而分类的依据是(discriminant)判别式: $B^2 - 4AC$
 
@@ -57,7 +57,10 @@ $$ f_t + \frac{dx}{dt} f_x = 0  $$
 
 一个方法就是回答以下问题：在solution domain D(x,y) 中能不能找到一个路径，这个路径经过点P，二阶导$f_{xx}$ $f_{xy}$ $f_{yy}$是 multivalued 或 discontinuous? 如果这些paths 存在，那么这些paths就是信息传播的paths，也就是characteristics! 
 
+![][image-2]
+
 通过cramer’s法则可以得到无数的$f_{xx}$ $f_{xy}$ $f_{yy}$ 的值, 这样就没有物理意义了。所以我们把 determinant of the coefficient matrix 设为0
 
 
 [image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fitx9punuyj20jd09l407.jpg
+[image-2]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fivqnv0n15j20hd0enwh0.jpg
