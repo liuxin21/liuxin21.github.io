@@ -6,16 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2017-08-10-intro.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524473018.65574199</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>3</integer>
-				</dict>
-			</dict>
 			<key>2017-08-11-classification.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -26,18 +16,14 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
-			<key>e.md</key>
+			<key>2017-08-11-intro.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524676239.00176501</real>
 				<key>lastModification</key>
-				<real>524676239.00176501</real>
+				<real>525328518.05084598</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>9</integer>
+					<integer>16</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -45,10 +31,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-08-10-intro.md</string>
-		</array>
-		<array>
-			<string>e.md</string>
+			<string>2017-08-11-intro.md</string>
 		</array>
 		<array>
 			<string>2017-08-11-classification.md</string>
@@ -61,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>15</integer>
+			<integer>17</integer>
 		</dict>
 	</dict>
 </dict>
