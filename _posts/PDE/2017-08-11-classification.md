@@ -25,7 +25,7 @@ PDE的分类就从**a single second-order PDE** 来解释比较容易。
 ![][image-1]
 
 **Classification** 由 **Characteristics** 决定。
-PDE 的 characteristics 就是 (n-1)-dimensional **hyper-surfaces** in n-dimensional hyperspace that have some very special features.
+PDE 的 characteristics 就是 (n-1)-dimensional **hyper-surfaces** in n-dimensional **hyper-space** that have some very special features.
 
 hyper 指的是不止三维，也就是 xyzt spaces, and curves and surfaces within those spaces. 
 
@@ -54,6 +54,10 @@ a moving fluid particle carries (convects) its mass, momentum, and energy with i
 $$ f\_t + \frac{dx}{dt} f\_x = 0  $$
 
 而很明显，$ f\_t + \frac{dx}{dt} f\_x = \frac{df}{dt}$，所以$\frac{df}{dt} = 0$, f 为常数。
+
+一个方法就是回答以下问题：在solution domain D(x,y) 中能不能找到一个路径，这个路径经过点P，二阶导$f_{xx}$ $f_{xy}$ $f_{yy}$是 multivalued 或 discontinuous? 如果这些paths 存在，那么这些paths就是信息传播的paths，也就是characteristics! 
+
+通过cramer’s法则可以得到无数的$f_{xx}$ $f_{xy}$ $f_{yy}$ 的值, 这样就没有物理意义了。所以我们把 determinant of the coefficient matrix 设为0
 
 
 [image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fitx9punuyj20jd09l407.jpg
