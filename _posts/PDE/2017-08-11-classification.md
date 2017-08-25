@@ -43,7 +43,7 @@ fluid flow 是一个常见的 convection 例子
 
 The convection of **a property f** of a fluid particle in one dimension:
 
-$$f\_t + u f\_x = 0$$
+$$f_t + u f_x = 0$$
 
 u 就是 convection velocity.
 
@@ -51,9 +51,9 @@ a moving fluid particle carries (convects) its mass, momentum, and energy with i
 
 上式(convection equation)还可写为：
 
-$$ f\_t + \frac{dx}{dt} f\_x = 0  $$
+$$ f_t + \frac{dx}{dt} f_x = 0  $$
 
-而很明显，$ f\_t + \frac{dx}{dt} f\_x = \frac{df}{dt}$，所以$\frac{df}{dt} = 0$, f 为常数。
+而很明显，$ f_t + \frac{dx}{dt} f_x = \frac{df}{dt}$，所以$\frac{df}{dt} = 0$, f 为常数。
 
 一个方法就是回答以下问题：在solution domain D(x,y) 中能不能找到一个路径，这个路径经过点P，二阶导$f_{xx}$ $f_{xy}$ $f_{yy}$是 multivalued 或 discontinuous? 如果这些paths 存在，那么这些paths就是信息传播的paths，也就是characteristics! 
 
