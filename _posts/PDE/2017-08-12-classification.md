@@ -61,6 +61,17 @@ $$ f_t + \frac{dx}{dt} f_x = 0  $$
 
 通过cramer’s法则可以得到无数的$f_{xx}$ $f_{xy}$ $f_{yy}$ 的值, 这样就没有物理意义了。所以我们把 determinant of the coefficient matrix 设为0
 
+如果这两组curves存在，它们就是原PDE的characteristic paths
+
+Elliptic PDEs have no real characteristic paths, parabolic PDEs have one real repeated characteristic path, and hyperbolic PDEs have two real distinct characteristic paths. 
+
+### domain of dependence 和 range of influence
+
+假设 solution domain 上有一点P。
+
+点P的 **domain of dependence** 定义为$f(x_p,y_p)$决定的region of the solution domain。注：$f(x_p,y_p)$ 是位于点P的解。也就是说，$f(x_p,y_p)$ 决定了在domain of dependence  发生的一切。
+
+点P的 **range of influence** 定义为 $f(x_p,y_p)$ 影响的 region of solution domain。也就是说，影响了在 range of influence 里所有点的解。
 
 [image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fitx9punuyj20jd09l407.jpg
 [image-2]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fivqnv0n15j20hd0enwh0.jpg
