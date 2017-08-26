@@ -77,6 +77,8 @@ Elliptic PDEs have no real characteristic paths, parabolic PDEs have one real re
 
 因为elliptic PDE 没有real characteristic paths, 所以它没有特殊的 domains of dependence 和 ranges of influence。实际上，它的整个 solution domain  就是 solution domain 上每个点的 both the domain of dependence and the range of influence.
 
+### summary
+
 [image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fitx9punuyj20jd09l407.jpg
 [image-2]:	http://wx1.sinaimg.cn/mw690/8db2c8cbly1fivqnv0n15j20hd0enwh0.jpg
 [image-3]:	http://wx3.sinaimg.cn/mw690/8db2c8cbly1fiww7tu2wpj20iq0dpad4.jpg
