@@ -7,6 +7,9 @@ category: PDE
 tags: elliptic PDE
 ---
 
+two-dimensional Laplace equation 就是简单的 elliptic PDE 
+
+$$ T_{xx} + T_{yy} = 0 $$
 total heat transfer rate 是由 local heat transfer rate 积分得到的
 
 由 Fourier’s law of conduction
