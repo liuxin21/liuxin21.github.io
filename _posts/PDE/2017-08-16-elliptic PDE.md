@@ -7,7 +7,15 @@ category: PDE
 tags: elliptic PDE
 ---
 
-Elliptic PDEs govern **steady-state equilibrium problems**, which are **boundary-value problems** in closed domains. Consequently, elliptic PDEs are solved numerically by **relaxation methods**. 在[2-PDE的分类]()一节里讲到, problems governed by elliptic PDEs have no real characteristic paths. Physically, this means that there are no preferred paths of information propagation and that **the domain of dependence and the range of influence of every point is the entire solution domain**. The solution at every point depends on the solution at all other points, including the boundaries of the solution domain, and the solution at every point influences the solution at all other points. The solution is continuous through out the solution domain since there are no paths along which the derivatives of the solution maybe discontinuous. These general features of elliptic PDEs are illustrated in Figure9.4. 
+Elliptic PDEs govern **steady-state equilibrium problems**, which are **boundary-value problems** in closed domains. Consequently, elliptic PDEs are solved numerically by **relaxation methods**. 在[2-PDE的分类]()一节里讲到过, elliptic PDEs 控制的问题没有 real characteristics. 物理层面上，这意味着：**1. there are no preferred paths of information propagation** and that **2. the domain of dependence and the range of influence of every point is the entire solution domain**. （第二点的意思是：The solution at every point depends on the solution at all other points, including the boundaries of the solution domain, and the solution at every point influences the solution at all other points. 第一点的意思是：The solution is continuous through out the solution domain since there are no paths along which the derivatives of the solution maybe discontinuous.）
 
-Every exact partial derivative in a PDEshould be approximated in a manner consistent with the physical requirementsof the problem.For an elliptic PDE,the solution at every point in the solution domaindependson the solution at all the other points, in particular, the inmaediateneighboringpoints. Thus,the exactpartial derivatives in elliptic PDEsare approximatedby centered-difference approximations, as discussed in Section 9.3.2. 
+下图是这些 general features of elliptic PDEs：
+![]()
+
+可以对比一下 general features of parabolic PDEs:
+![]()
+
+Every exact partial derivative in a PDE should be approximated in a manner consistent with the physical requirements of the problem. For an elliptic PDE, the solution at every point in the solution domain depends on the solution at all the other points, in particular, the immediate neighboring points. Thus, the exact partial derivatives in elliptic PDEs are approximated by **centered-difference approximations**, as discussed in Section 9.3.2. 
+
+
 
