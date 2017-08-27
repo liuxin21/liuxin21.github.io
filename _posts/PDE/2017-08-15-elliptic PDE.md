@@ -7,3 +7,8 @@ category: PDE
 tags: elliptic PDE
 ---
 
+total heat transfer rate 是由 local heat transfer rate 积分得到的
+
+由 Fourier’s law of conduction
+
+我们计算薄板顶部的 total heat transfer，需要y=h，把dq从 x=0 到 x=10 积分
