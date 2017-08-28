@@ -12,10 +12,12 @@ The finite difference method is a numerical procedure which solves a PDE by **di
 ## Finite Difference Grids 
 下图是 the closed solution domainD(x, y) in xy space for a two-dimensional equilibrium problem. The solution domain must be covered by a two-dimensional  grid of lines, called the **finite difference grid**. The intersections of these **grid lines** are the **grid points** at which the finite difference solution to the partial differential equation is to be obtained.
 
-![]()
+![][image-1]
+(Solution domain D(x,y) and discrete difference grid.)
 
 The dependent variable at a grid point is denoted by the same subscript notation that is used to denote the grid points themselves.Thus,the function f(x, y) at grid point (i,j) is denoted by 
 
+$$ f(x_i, y_j) = f_{i, j} $$
 
 ## Finite Difference Approximations 
 Nowthat the finite difference grid has beenspecified, finite difference approximations (FDAs)of the individual exact partial derivatives appearingin the partial differential 
@@ -27,3 +29,4 @@ In the developmentof finite difference approximations,a distinction must be made
 
 
 
+[image-1]:	http://wx4.sinaimg.cn/mw690/8db2c8cbly1fiz8e3i67gj20ex09rgmy.jpg
