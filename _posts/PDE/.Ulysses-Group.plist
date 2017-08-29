@@ -66,6 +66,16 @@
 					<integer>42</integer>
 				</dict>
 			</dict>
+			<key>2017-08-18-elliptic PDE.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525664576.45102102</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>64</integer>
+				</dict>
+			</dict>
 			<key>the domain of dependence and the range of influence of every point is the entire solution - 2.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -94,20 +104,6 @@
 					<integer>58</integer>
 				</dict>
 			</dict>
-			<key>无标题.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>525517894.34728801</real>
-				<key>lastModification</key>
-				<real>525517894.34728801</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>61</integer>
-				</dict>
-			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -125,9 +121,6 @@
 			<string>2017-08-15-elliptic PDE.md</string>
 		</array>
 		<array>
-			<string>无标题.md</string>
-		</array>
-		<array>
 			<string>2017-08-16-elliptic PDE.md</string>
 		</array>
 		<array>
@@ -139,6 +132,9 @@
 		<array>
 			<string>2017-08-17-elliptic PDE.md</string>
 		</array>
+		<array>
+			<string>2017-08-18-elliptic PDE.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -147,7 +143,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>61</integer>
+			<integer>65</integer>
 		</dict>
 	</dict>
 </dict>
