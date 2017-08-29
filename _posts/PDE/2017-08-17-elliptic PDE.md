@@ -29,9 +29,19 @@ In the development of finite difference approximations, a distinction must be ma
 
 通过泰勒展开，得到 f(i+1) 和 f(i-1) 与 f(i), fx(i), fxx(i) … 的关系，最后得到用f(i+1) f(i-1) 和 f(i) 来表达 fxx(i).
 
+真实值：
+
+$$ f_{xx} \bar \| i,j = \frac{f \bar _{i+1,j} - 2 \ bar f_{i,j} + f \bar _i-1,j }{ \Delta x ^2} - \frac{1}{12} f  \bar_{xxxx} (\epsilon} \Delta x^2 $$
+
+而 second-order centered-space approximation of $f\bar_{xx}$ at grid point (i,j) 是：
+ 
+$$ f_{xx \| i,j} = \frac{f_{i+1,j} - 2 f_{i,j} + f_i-1,j }{ \Delta x ^2}  $$
+
+remainder term 叫做truncation error of the finite difference approximation of $f\bar_{xx}$ 
+
 ## Finite Difference Equations 
 
-Finite difference equationsare obtained by replacing the individual exact partial deriva- tives in a partial differential equation by finite difference approximations,such as Eqs. (9.17) and (9.19), to obtain a finite difference approximationof the partial differential equation, whichis called afinite difference equation (FDE).A finite difference approx- imation of the two-dimensionalLaplaceequation is developedin Section 9.4, and a finite difference approximationof the two-dimensionalPoisson equation is developedin Section 9.8. 
+Finite difference equations are obtained by replacing the individual exact partial deriva- tives in a partial differential equation by finite difference approximations,such as Eqs. (9.17) and (9.19), to obtain a finite difference approximationof the partial differential equation, whichis called afinite difference equation (FDE).A finite difference approx- imation of the two-dimensionalLaplaceequation is developedin Section 9.4, and a finite difference approximationof the two-dimensionalPoisson equation is developedin Section 9.8. 
 
 
 
