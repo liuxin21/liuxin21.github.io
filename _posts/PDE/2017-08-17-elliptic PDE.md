@@ -33,15 +33,15 @@ In the development of finite difference approximations, a distinction must be ma
 
 $$ f_{xx} \bar \| i,j = \frac{f \bar _{i+1,j} - 2 \ bar f_{i,j} + f \bar _i-1,j }{ \Delta x ^2} - \frac{1}{12} f  \bar_{xxxx} (\epsilon} \Delta x^2 $$
 
-而 second-order centered-space approximation of $f\bar_{xx}$ at grid point (i,j) 是：
+而 second-order centered-space approximation of $f_{xx}\bar$ at grid point (i,j) 是：
  
-$$ f_{xx \| i,j} = \frac{f_{i+1,j} - 2 f_{i,j} + f_i-1,j }{ \Delta x ^2}  $$
+$$ f_{xx \| i,j} = \frac{f_{i+1,j} - 2 f_{i,j} + f_{i-1,j }{ \Delta x ^2}  $$
 
 remainder term 叫做truncation error of the finite difference approximation of $f\bar_{xx}$ 
 
 ## Finite Difference Equations 
 
-Finite difference equations are obtained by replacing the individual exact partial deriva- tives in a partial differential equation by finite difference approximations,such as Eqs. (9.17) and (9.19), to obtain a finite difference approximationof the partial differential equation, whichis called afinite difference equation (FDE).A finite difference approx- imation of the two-dimensionalLaplaceequation is developedin Section 9.4, and a finite difference approximationof the two-dimensionalPoisson equation is developedin Section 9.8. 
+Finite difference equations are obtained by replacing the individual exact partial derivatives in a partial differential equation by finite difference approximations, such as $ f_{xx \| i,j} = \frac{f_{i+1,j} - 2 f_{i,j} + f_{i-1,j }{ \Delta x ^2}  $, to obtain a finite difference approximation of the partial differential equation, which is called a **finite difference equation (FDE)**. A finite difference approximation of the two-dimensional Laplace equation is developed in Section 9.4, and a finite difference approximation of the two-dimensional Poisson equation is developed in Section 9.8. 
 
 
 
