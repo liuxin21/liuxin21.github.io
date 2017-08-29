@@ -27,7 +27,13 @@ The forms of the finite difference approximations of the individual exact partia
 
 In the development of finite difference approximations, a distinction must be made between the **exact solution** of a PDE and the **approximate solution** of the PDE. For the remainder of this chapter, exact solutions will be denoted by an overbar over the symbol for the dependent variable [i.e., jT(x,y)](), and approximate solutions will be denoted by the symbol for the dependent variable without an overbar[i.e., f(x, y)](). Thus, 
 
+通过泰勒展开，得到 f(i+1) 和 f(i-1) 与 f(i), fx(i), fxx(i) … 的关系，最后得到用f(i+1) f(i-1) 和 f(i) 来表达 fxx(i).
+
 ## Finite Difference Equations 
+
+Finite difference equationsare obtained by replacing the individual exact partial deriva- tives in a partial differential equation by finite difference approximations,such as Eqs. (9.17) and (9.19), to obtain a finite difference approximationof the partial differential equation, whichis called afinite difference equation (FDE).A finite difference approx- imation of the two-dimensionalLaplaceequation is developedin Section 9.4, and a finite difference approximationof the two-dimensionalPoisson equation is developedin Section 9.8. 
+
+
 
 
 
