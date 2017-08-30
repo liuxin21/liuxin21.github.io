@@ -76,6 +76,36 @@
 					<integer>64</integer>
 				</dict>
 			</dict>
+			<key>2017-08-19-elliptic PDE.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525779458.81934702</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>70</integer>
+				</dict>
+			</dict>
+			<key>2017-08-20-elliptic PDE.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525779827.61672902</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>74</integer>
+				</dict>
+			</dict>
+			<key>2017-08-21-elliptic PDE.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525779903.16204703</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
 			<key>the domain of dependence and the range of influence of every point is the entire solution - 2.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -135,6 +165,15 @@
 		<array>
 			<string>2017-08-18-elliptic PDE.md</string>
 		</array>
+		<array>
+			<string>2017-08-19-elliptic PDE.md</string>
+		</array>
+		<array>
+			<string>2017-08-20-elliptic PDE.md</string>
+		</array>
+		<array>
+			<string>2017-08-21-elliptic PDE.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -143,7 +182,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>65</integer>
+			<integer>79</integer>
 		</dict>
 	</dict>
 </dict>
