@@ -41,7 +41,7 @@ remainder term 叫做truncation error of the finite difference approximation of 
 
 ## Finite Difference Equations 
 
-Finite difference equations are obtained by replacing the individual exact partial derivatives in a partial differential equation by finite difference approximations, such as $ f_{xx \| i,j} = \frac{f_{i+1,j} - 2 f_{i,j} + f_{i-1,j }{ \Delta x ^2}  $, to obtain a finite difference approximation of the partial differential equation, which is called a **finite difference equation (FDE)**. A finite difference approximation of the two-dimensional Laplace equation is developed in Section 9.4, and a finite difference approximation of the two-dimensional Poisson equation is developed in Section 9.8. 
+Finite difference equations are obtained by replacing the individual exact partial derivatives in a partial differential equation by finite difference approximations, such as $ f_{xx i,j} = \frac{f_{i+1,j} - 2 f_{i,j} + f_{i-1,j }{ \Delta x ^2}  $, to obtain a finite difference approximation of the partial differential equation, which is called a **finite difference equation (FDE)**. A finite difference approximation of the two-dimensional Laplace equation is developed in Section 9.4, and a finite difference approximation of the two-dimensional Poisson equation is developed in Section 9.8. 
 
 
 
