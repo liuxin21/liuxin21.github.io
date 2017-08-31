@@ -9,4 +9,4 @@ tags: elliptic PDE
 
 
 
-. ThePoissonequation is simplythe nonhomogeneoLusaplaceequation. It applies to problemsin massdiffusion, heat diffusion (i.e., conduction), incompressible fluid flow, etc., in whicha nonhomo- geneoustermis present. 
+The Poisson equation is simply the non homogeneous Laplace equation. It applies to problems in mass diffusion, heat diffusion (i.e., conduction), incompressible fluid flow, etc., in which a non homogeneous term is present. 
