@@ -19,3 +19,8 @@ $u$是 convection velocity
 
 The diffusion equation applies to problems in mass diffusion, heat diffusion (i.e., conduction), neutron diffusion, etc. The 
 convection-diffusion equation applies to problems in which convection occurs in combination with diffusion, for example,fluid mechanics and heat transfer. 
+
+two boundary conditions are required 
+
+## GENERAL FEATURES OF PARABOLIC PDEs 
+
