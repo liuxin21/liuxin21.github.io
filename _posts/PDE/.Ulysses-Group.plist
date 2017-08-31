@@ -116,6 +116,16 @@
 					<integer>84</integer>
 				</dict>
 			</dict>
+			<key>2017-08-23-Parabolic PDE.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525837311.63294703</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>90</integer>
+				</dict>
+			</dict>
 			<key>the domain of dependence and the range of influence of every point is the entire solution - 2.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -187,6 +197,9 @@
 		<array>
 			<string>2017-08-22-elliptic PDE.md</string>
 		</array>
+		<array>
+			<string>2017-08-23-Parabolic PDE.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -195,7 +208,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>85</integer>
+			<integer>91</integer>
 		</dict>
 	</dict>
 </dict>
