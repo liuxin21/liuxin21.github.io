@@ -24,3 +24,6 @@ two boundary conditions are required
 
 ## GENERAL FEATURES OF PARABOLIC PDEs 
 
+Propagation problems are **initial-boundary-value problems** in **open domains** (open with respect to time or a time-like variable) 
+
+Propagation problems are governed by parabolic or hyperbolic partial differential equations. 
