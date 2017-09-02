@@ -57,6 +57,29 @@ THE FINITE DIFFERENCE METHOD
 3. 把 FDAs 代入到 PDE，得到 finite difference equation (FDE)
 4. 解 FDE
 
-	  
+PDE的数值解的目的就是march the solution at time level n forward in time to time level n+1。
+
+对于domain of dependence of parabolic PDE, 应该是n+1 上所有的点都有影响，所以解域整个都是。
+
+![][image-1]
+
+对于Numerical domain of dependence, 有两种：
+
+1.explicit methods
+
+![][image-2]
+
+ 2.implicit methods 
+
+![][image-3]
+ 
 
 
+
+  
+
+
+
+[image-1]:	http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fj5awp7pgaj20mi0c8af2.jpg
+[image-2]:	http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fj5awmh3aaj20ln0c5dhq.jpg
+[image-3]:	http://wx1.sinaimg.cn/mw690/8db2c8cbgy1fj5awnppvpj20m60c1whi.jpg
