@@ -27,3 +27,6 @@ two boundary conditions are required
 Propagation problems are **initial-boundary-value problems** in **open domains** (open with respect to time or a time-like variable) 
 
 Propagation problems are governed by parabolic or hyperbolic partial differential equations. 
+
+problems governed by parabolic PDEs have an **infinite physical information propagation speed**. As a result, the solution at a given point P at time level n depends on the solution **at all other points** in the solution domain **at all times preceding** and including time level n, and the solution at a given point P at time level n influences the solution at all other points in the solution domain at all times including and after time level n. Consequently,the physical information propagation speed c = dx/dt is infinite. 
+
