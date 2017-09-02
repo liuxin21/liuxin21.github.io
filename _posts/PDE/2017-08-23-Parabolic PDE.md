@@ -49,3 +49,14 @@ In two-dimensional space, which is the case considered here (i.e., space x and t
 The characteristic paths for the unsteady one-dimensional diffusion equation $ f_t = \alpha f_{xx} $ are the **lines of constant time**. 
 
 Thus, physical information propagates at an infinite rate throughout the entire physical solution domain. 也就是说每个点都互相影响。
+
+THE FINITE DIFFERENCE METHOD
+
+1. 先把定义域分割成 discrete difference grid 
+2. 把PDE里每一个独立的 exact partial derivatives 约成 finite difference approximations (FDAs)
+3. 把 FDAs 代入到 PDE，得到 finite difference equation (FDE)
+4. 解 FDE
+
+	  
+
+
