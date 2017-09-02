@@ -30,3 +30,12 @@ Propagation problems are governed by parabolic or hyperbolic partial differentia
 
 problems governed by parabolic PDEs have an **infinite physical information propagation speed**. As a result, the solution at a given point P at time level n depends on the solution **at all other points** in the solution domain **at all times preceding** and including time level n, and the solution at a given point P at time level n influences the solution at all other points in the solution domain at all times including and after time level n. Consequently,the physical information propagation speed c = dx/dt is infinite. 
 
+考虑 pure diffusion:
+$$ f_t = \alpha f_{xx} $$
+
+$\alpha$ 是 diffusion coefficient. 
+
+给出f(x,0), 即可得出f
+
+initial property distribution $\phi$ simply decays with  
+at the exponential rate. Thus, the rate of decay depends on  of the wave number k. The initial property distribution does not propagate in space. 
