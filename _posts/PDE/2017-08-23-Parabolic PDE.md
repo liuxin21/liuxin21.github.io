@@ -39,3 +39,11 @@ $\alpha$ 是 diffusion coefficient.
 
 initial property distribution $\phi$ simply decays with  
 at the exponential rate. Thus, the rate of decay depends on  of the wave number k. The initial property distribution does not propagate in space. 
+
+Consequently, pure diffusion causes the **initial property distribution** to **decay and change shape**, but the property distribution does **not propagate in space**. 
+
+
+## characteristics 
+In two-dimensional space, which is the case considered here (i.e., space x and time t), characteristics are paths (curved, in general) in the solution domain D(x, t) along which physical information propagates.
+
+The characteristic paths for the unsteadyone-dimensionadliffusion equation are the lines of constant time. 
