@@ -46,4 +46,6 @@ Consequently, pure diffusion causes the **initial property distribution** to **d
 ## characteristics 
 In two-dimensional space, which is the case considered here (i.e., space x and time t), characteristics are paths (curved, in general) in the solution domain D(x, t) along which physical information propagates.
 
-The characteristic paths for the unsteadyone-dimensionadliffusion equation are the lines of constant time. 
+The characteristic paths for the unsteady one-dimensional diffusion equation $ f_t = \alpha f_{xx} $ are the **lines of constant time**. 
+
+Thus, physical information propagates at an infinite rate throughout the entire physical solution domain. 也就是说每个点都互相影响。
