@@ -73,9 +73,16 @@ PDE的数值解的目的就是march the solution at time level n forward in time
 
 ![][image-3]
  
+he major similarity is that both methods march the solution forward from one time level to the next time level. 
 
+The major difference is that the numerical information propagation speed for explicit marching 
+methods is finite, whereas the numerical information propagation speed for implicit marching methods is infinite. 
 
+explicit methods 比 implicit methods 计算更快，因为explicit methods 没有 system of finite difference equations 需要计算。
 
+然而，explicit methods 的 finite numerical information propagation speed 并不是正确的 parabolic PDE 信息传播的速度，而 implicit method 的是。
+
+实际上，只有一小部分物理信息会以 infinite physical information propagation propagation speed 来传播。
   
 
 
