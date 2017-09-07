@@ -83,6 +83,12 @@ explicit methods 比 implicit methods 计算更快，因为explicit methods 没�
 然而，explicit methods 的 finite numerical information propagation speed 并不是正确的 parabolic PDE 信息传播的速度，而 implicit method 的是。
 
 实际上，只有一小部分物理信息会以 infinite physical information propagation propagation speed 来传播。
+
+$x_i = (i-1) \Delta x, \ t^n = n \Delta t $
+
+finite difference approximations 
+
+还是写泰勒展开式
   
 
 
