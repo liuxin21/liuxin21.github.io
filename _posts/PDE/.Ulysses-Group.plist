@@ -126,32 +126,14 @@
 					<integer>90</integer>
 				</dict>
 			</dict>
-			<key>the domain of dependence and the range of influence of every point is the entire solution - 2.md</key>
+			<key>2017-09-01-fem.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>525494955.61055702</real>
 				<key>lastModification</key>
-				<real>525494955.61055702</real>
+				<real>526544979.02086502</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>57</integer>
-				</dict>
-			</dict>
-			<key>无标题 - 2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>525494957.88884598</real>
-				<key>lastModification</key>
-				<real>525494957.88884598</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>58</integer>
+					<integer>100</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -174,12 +156,6 @@
 			<string>2017-08-16-elliptic PDE.md</string>
 		</array>
 		<array>
-			<string>无标题 - 2.md</string>
-		</array>
-		<array>
-			<string>the domain of dependence and the range of influence of every point is the entire solution - 2.md</string>
-		</array>
-		<array>
 			<string>2017-08-17-elliptic PDE.md</string>
 		</array>
 		<array>
@@ -200,6 +176,9 @@
 		<array>
 			<string>2017-08-23-Parabolic PDE.md</string>
 		</array>
+		<array>
+			<string>2017-09-01-fem.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -208,7 +187,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>91</integer>
+			<integer>101</integer>
 		</dict>
 	</dict>
 </dict>
