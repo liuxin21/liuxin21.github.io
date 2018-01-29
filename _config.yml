@@ -15,11 +15,11 @@ links:
   - name:         计算流体力学
     url:          /计算流体力学
     external:     false
-  - name:         软件
-    url:          /软件
-    external:     false
   - name:         编程
     url:          /编程
+    external:     false
+  - name:         软件
+    url:          /软件
     external:     false
   - name:         About
     url:          /about
