@@ -18,6 +18,8 @@ links:
   - name:         Archive
     url:          /archive
     external:     false
+  - name:         软件
+    url:          /软件
     external:     false
   - name:         Web
     url:          www.liuxin.in
