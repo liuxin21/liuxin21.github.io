@@ -8,10 +8,11 @@ layout: main
         <h1 class="post-title">{{ site.title }}</h1>
     </div>
 
+{% capture my_include %}
 {% include home.md %}
-
-{% capture my_include %}{% include home.md %}{% endcapture %}
+{% endcapture %}
 {{ my_include | markdownify }}
+
 
   <ul class="post-list">
     {% for post in site.posts %}
