@@ -27,9 +27,9 @@ links:
   - name:         Archive
     url:          /archive
     external:     false
-  - name:         Web
-    url:          www.liuxin.in
-    external:     true
+#  - name:         Web
+#    url:          www.liuxin.in
+#    external:     true
 
 # Build settings
 markdown: kramdown
