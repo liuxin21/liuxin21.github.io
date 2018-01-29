@@ -3,29 +3,19 @@ layout: main
 ---
 
 <div class="home">
+
     <div class="logo-header">
         <img src='/assets/logo.png'>
         <h1 class="post-title">{{ site.title }}</h1>
     </div>
 
-{% capture my_include %}
-{% include home.md %}
-{% endcapture %}
-{{ my_include | markdownify }}
-
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-    <li>
-        <div>
-        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
-            <span class="post-date">{{ post.date | date_to_long_string }}</span>
-        </div>
-    </li>
-    {% endfor %}
-  </ul>
+    {% capture my_include %}
+    {% include home.md %}
+    {% endcapture %}
+    {{ my_include | markdownify }}
 
     <div class="footer center">
         made by LiuXin
     </div>
+    
 </div>

@@ -37,4 +37,17 @@ permalink: /archive/
 {% endunless %}{% endfor %}
 <br/><br/>
 
+## 最新
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li>
+        <div>
+        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date_to_long_string }}</span>
+        </div>
+    </li>
+    {% endfor %}
+  </ul>
+
 </div>
