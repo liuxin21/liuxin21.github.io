@@ -10,6 +10,9 @@ layout: main
 
 {% include home.md %}
 
+{% capture my_include %}{% include home.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
   <ul class="post-list">
     {% for post in site.posts %}
     <li>
