@@ -12,20 +12,20 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 links:
   - name:         Home
     url:          /
-  - name:         计算流体力学
-    url:          /计算流体力学
+  - name:         计算流体力学CFD
+    url:          /导航navigation/计算流体力学CFD
     external:     false
-  - name:         编程
-    url:          /编程
+  - name:         编程programing
+    url:          /导航navigation/编程programing
     external:     false
-  - name:         软件
-    url:          /软件
+  - name:         软件software
+    url:          /导航navigation/软件software
     external:     false
-  - name:         About
-    url:          /about
+  - name:         关于About
+    url:          /导航navigation/关于about
     external:     false
-  - name:         Archive
-    url:          /archive
+  - name:         存档Archive
+    url:          /导航navigation/存档archive
     external:     false
 #  - name:         Web
 #    url:          www.liuxin.in
