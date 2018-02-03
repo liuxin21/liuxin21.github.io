@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /导航navigation/关于about
 ---
 我叫刘鑫，现在university of waterloo就读mns。
 

@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 subtitle: Do something you like.
-permalink: /archive/
+permalink: /导航navigation/存档archive
 ---
 
 <div class="home">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 编程
-permalink: /编程/
+permalink: /导航navigation/编程programing
 ---
 
 <ul class="posts">
