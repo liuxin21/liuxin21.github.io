@@ -10,7 +10,7 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 
 # Links settings
 links:
-  - name:         Home
+  - name:         主页Home
     url:          /
   - name:         计算流体力学CFD
     url:          /导航navigation/计算流体力学CFD
