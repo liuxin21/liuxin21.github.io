@@ -46,7 +46,7 @@ permalink: /导航navigation/计算流体力学CFD
 
 <ul class="posts">
 	{% for post in site.posts %}
-		{% if post.category == "流体力学Anderson" %}
+		{% if post.category == "流体力学Anderson","流体力学" %}
 		<li>
 			<a href="{{ post.url }}">{{ post.title }}</a>
 			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
