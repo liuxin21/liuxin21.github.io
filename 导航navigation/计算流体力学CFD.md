@@ -32,10 +32,6 @@ permalink: /导航navigation/计算流体力学CFD
 		{% endif %}
 	{% endfor %}
 
-{% include begin.html %} 
-"变分法"
-{% include end.html %} 
-
 ![Screenshot 2018-01-30 15.41.10](https://i.imgur.com/vNsi09w.png)
 
 ### 有限元法
