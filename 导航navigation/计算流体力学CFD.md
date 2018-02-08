@@ -8,12 +8,29 @@ permalink: /导航navigation/计算流体力学CFD
 
 ### PDE
 
-{% include begin.html %} 
-"PDE"
-{% include end.html %} 
+<ul class="posts">
+	{% for post in site.posts %}
+		{% if post.category == "PDE" %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
+		</li>
+		{% endif %}
+	{% endfor %}
+
 
 
 ### 变分法
+
+<ul class="posts">
+	{% for post in site.posts %}
+		{% if post.category == "变分法" %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
+		</li>
+		{% endif %}
+	{% endfor %}
 
 {% include begin.html %} 
 "变分法"
