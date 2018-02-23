@@ -6,18 +6,11 @@ permalink: /导航navigation/计算流体力学CFD
 
 **[数学部分]**
 
-### PDE
+### [PDE](/目录catalog/计算流体力学/PDE)
 
-<ul class="posts">
-	{% for post in site.posts %}
-		{% if post.category == "PDE" %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
-		</li>
-		{% endif %}
-	{% endfor %}
-</ul>
+- [PDE基础](/目录catalog/计算流体力学/PDE/PDE基础)
+
+- [用python写PDE](/目录catalog/计算流体力学/PDE/用python写PDE)
 
 ### 变分法
 
