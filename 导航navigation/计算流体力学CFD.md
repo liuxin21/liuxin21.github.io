@@ -12,32 +12,9 @@ permalink: /导航navigation/计算流体力学CFD
 
 - [用python写PDE](/目录catalog/计算流体力学/PDE/用python写PDE)
 
-### 变分法
+### [变分法](/目录catalog/计算流体力学/变分法)
 
-<ul class="posts">
-	{% for post in site.posts %}
-		{% if post.category == "变分法" %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
-		</li>
-		{% endif %}
-	{% endfor %}
-</ul>
-
-![Screenshot 2018-01-30 15.41.10](https://i.imgur.com/vNsi09w.png)
-
-### 有限元法
-<ul class="posts">
-	{% for post in site.posts %}
-		{% if post.category == "有限元" %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
-		</li>
-		{% endif %}
-	{% endfor %}
-</ul>
+### [有限元法](/目录catalog/计算流体力学/有限元法)
 
 ### [有限体积法](/目录catalog/计算流体力学/有限体积法)
 
@@ -48,32 +25,11 @@ permalink: /导航navigation/计算流体力学CFD
 
 **[力学部分]**
 
-### 流体力学
+### [流体力学](/目录catalog/计算流体力学/流体力学)
 
-<ul class="posts">
-	{% for post in site.posts %}
-		{% if post.category == "流体力学Anderson", "流体力学" %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
-		</li>
-		{% endif %}
-	{% endfor %}
-</ul>
+### [连续介质力学](/目录catalog/计算流体力学/连续介质力学)
 
 
-### 连续介质力学
-
-<ul class="posts">
-	{% for post in site.posts %}
-		{% if post.category == "Continuum Mechanics" %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-			<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
-		</li>
-		{% endif %}
-	{% endfor %}
-</ul>
 
 
 
