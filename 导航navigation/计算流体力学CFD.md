@@ -17,8 +17,7 @@ permalink: /导航navigation/计算流体力学CFD
 		</li>
 		{% endif %}
 	{% endfor %}
-
-
+</ul>
 
 ### 变分法
 
@@ -31,6 +30,7 @@ permalink: /导航navigation/计算流体力学CFD
 		</li>
 		{% endif %}
 	{% endfor %}
+</ul>
 
 ![Screenshot 2018-01-30 15.41.10](https://i.imgur.com/vNsi09w.png)
 
