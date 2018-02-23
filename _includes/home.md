@@ -3,15 +3,15 @@
 >
 > 本CFD教程网站分为三大块：1.计算流体力学知识基础；2.相关编程；3.相关软件。
 
-## [计算流体力学](/计算流体力学)
+## [计算流体力学](/导航navigation/计算流体力学CFD)
 - 数学方面
 - 力学方面
 
-## [编程](/编程)
+## [编程](/导航navigation/编程programing)
 - Python
 - C/C++
 - matlab
 
-## [软件](/软件/)
+## [软件](/导航navigation/软件software)
 - FLUENT
 - COMSOL
