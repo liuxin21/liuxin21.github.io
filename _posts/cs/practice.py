@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 ## 日常操作
-df = pd.read_csv('name.csv')
+df = pd.read_csv('practice.csv')
 df.head()
 df.info()
 df.describe()
-sns.pairplot(df)   
+sns.pairplot(df['...'])   
 
 ## 
 
