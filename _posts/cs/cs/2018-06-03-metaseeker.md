@@ -21,3 +21,7 @@ category: cs
 1. 目标的定义
 2. 无关链接的过滤
 3. 下一步要爬取得URL地址的选取
+
+    import urllib.request
+    data = urllib.request.urlopen("http://www.baidu.com").read().decode("utf-8")
+    print(data)
