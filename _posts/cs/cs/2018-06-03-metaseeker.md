@@ -25,3 +25,4 @@ category: cs
     import urllib.request
     data = urllib.request.urlopen("http://www.baidu.com").read().decode("utf-8")
     print(data)
+
