@@ -1,3 +1,11 @@
+---
+layout: survey
+author: liuxin
+title: 调查问卷 
+date: 2018-06-19
+category: diary
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,8 +20,7 @@
 	.test{height: 600px; max-width: 600px; font-size: 40px;}
 	</style>
 <div class="test">
-版本一：纯js效果演示，微信打开提示，其它浏览器打开不提示！<br/>
-<a href="http://dwtedx.com">DD博客</a>
+<iframe src='https://www.wjx.cn/jq/25254053,i,t.aspx?width=360&source=iframe' width='360' height='1800' frameborder='0' style='overflow:auto'></iframe>
 	</div>
 	<script type="text/javascript">
 		function is_weixin() {
