@@ -18,7 +18,10 @@ var timer = null;
 //         },3000)
 //     }
 // }
-
+// 
 // slideimg();
 
-console.log(index);
+function myFunc(a,b){
+    return a*b;
+}
+myFunc(2,3);
