@@ -144,3 +144,27 @@ css display 属性:
 2. block: 此元素将显示为块级元素，此元素前后会带有换行符。
 3. Inline-block: 行内块元素。
 
+
+## JavaScript
+`setInterval()` 方法会不停地调用函数，直到 `clearInterval()` 被调用或窗口被关闭。
+由 `setInterval()` 返回的 ID 值可用作 `clearInterval()` 方法的参数。
+
+### function的写法
+    function f1(){
+        ...
+    }
+可以写成：
+    f1 = function(){
+        ...
+    }
+
+这样一来就可以匿名f1:
+    f1  = function(){
+        console.log("haha");
+    }
+    setInterval("f1()",1000);
+可以写成：
+    setInterval(function(){
+        console.log("haha")
+        },1000);
+
