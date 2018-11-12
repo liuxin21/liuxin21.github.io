@@ -121,6 +121,8 @@ I = 1 0: 101[1] 1
 注释：
 command /
 输入/**然后一回车，自动帮你生成方法和参数的注释
+Command + shift + o: 自动导入包
+command + 1: 自动修改
 
 ## vscode快捷键
 command + 回车: 在下建立空行
@@ -168,3 +170,52 @@ css display 属性:
         console.log("haha")
         },1000);
 
+
+
+通过静态map来模拟数据库，设置为静态的，就可以保证在类加载的时候就被实例化了，通过静态代码块，完成map内值的初始化，方便后面的使用。
+静态变量是类变量，在类加载的时候被初始化；静态代码块当类被载入时，自动执行静态代码块，且只被执行一次经常用于类属性的初始化，模拟数据库的内容要全程使用，且在使用时要保证数据已经被初始化，否则程序会出错，因此这个地方应该使用静态的
+
+
+添加
+list.add(obj1);
+查看
+ClassName obj = (ClassName) list.get(0);
+修改
+list.set(0, new ClassName(“”) );
+删除
+list.remove(obj);
+或list.remove(0);
+
+
+Set 能用foreach, iterator
+
+List 此外还能用get()方法
+
+
+```java
+List<C1> ls = new ArrayList<C1>();
+C1 obj1 = new C1();
+ls.add(obj1);
+C1 temp = ls.get(0)
+// 可得到ls的第0位：temp(也就是obj1)
+listForEach(ls);
+
+// 遍历：
+public static void listForEach(List<C1> ls){
+	for (C1 obj: ls){
+		syso(obj.属性)
+	}
+}
+
+Set<C2> st = new HashSet<C2>();
+C2 obj2 = new C2();
+st.add(obj2);
+setForEach(st);
+
+// 遍历：
+public static void setForEach(Set<C2> st){
+	for (C2 obj: st){
+		syso(obj.属性)
+	}
+}
+```
