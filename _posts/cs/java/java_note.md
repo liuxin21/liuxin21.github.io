@@ -17,3 +17,17 @@
 4. 静态变量定义后必须声明初始化　
 
 很明显，静态变量拥有的优势不少，第一点不用说。第2、3点可以利用它来做一个整个程序的全局变量，因为任何修改都只会指向同一份内存。　　
+
+
+## String
+```java
+String str = "A 1 BC 23";
+str.length()
+str.indexOf("BC")
+str.substring(3,7)
+String[] arr = str.split(" ");
+Arrays.toString(arr)
+
+
+
+
