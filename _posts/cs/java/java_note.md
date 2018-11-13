@@ -28,6 +28,9 @@ str.substring(3,7)
 String[] arr = str.split(" ");
 Arrays.toString(arr)
 
-
+str.charAt(i) == 'a'
+//注意引号
+String字符串" "
+char字符' '
 
 
