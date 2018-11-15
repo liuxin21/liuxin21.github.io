@@ -38,3 +38,22 @@ char字符’’
 **get**方式的请求参数会暴露在url链接中，而**post**不会，并且post携带的数据要比get大，也更安全，
 通常提交表单数据数据时，使用的是post请求方式.
 
+
+
+request.setAttribute("nn",xxx);
+request.getRequestDispatcher(“/xx.jsp”).forward(request,response);
+然后在xx.jsp中：
+request.getAttribute("nn");
+或者${"nn"}
+
+`request.getParameter()`和`request.getAttribute()`的区别
+
+
+
+```java
+// 某servlet中
+request.setAttribute("age", age)
+this.getServletContext().setAttribute("age", age)
+```
+
+两者不同：request是表示一个请求，只要发出一个请求就会创建一个request，它的作用域：仅在当前请求中有效。所以request.setAttribute("age", age)仅存在于一次请求中，this.getServletContext().setAttribute("age", age)是将数据存储在Application，是一个全局的储存信息的空间，服务器开始就存在，服务器关闭才释放。
