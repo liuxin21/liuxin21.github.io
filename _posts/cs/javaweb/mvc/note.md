@@ -57,3 +57,16 @@ this.getServletContext().setAttribute("age", age)
 ```
 
 两者不同：request是表示一个请求，只要发出一个请求就会创建一个request，它的作用域：仅在当前请求中有效。所以request.setAttribute("age", age)仅存在于一次请求中，this.getServletContext().setAttribute("age", age)是将数据存储在Application，是一个全局的储存信息的空间，服务器开始就存在，服务器关闭才释放。
+
+
+```jsp
+<%
+String path = request.getContextPath(); //path是project的名字
+String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
+%>
+```
+
+这样form就可以写：
+```jsp
+<form action="<%=basePath%>Servlet" method="post">
+```
