@@ -70,3 +70,26 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 ```jsp
 <form action="<%=basePath%>Servlet" method="post">
 ```
+
+request.setAttribute(“”,xxx);
+request.getRequestDispatcher(“/xx.jsp”).forward(request,response);
+然后在xx.jsp中：
+request.getAttribute(“”);
+或者${“”}
+
+Psvm: 主方法
+command+n: generate
+Contrl + command + f: next word
+Contrl + command + b: previous word
+
+
+四大作用域
+request: 相邻页面
+pageContext：本页面
+session: 浏览器关闭前所有页面 (重启servlet不会丢失）
+application: web容器的生命周期(重启servlet会重新计算）
+
+
+
+
+80端口是HTTP常用端口，21端口主要用于FTP（File Transfer Protocol，文件传输协议）服务，22端口是ssh常用端口，3306是Mysql默认端口
