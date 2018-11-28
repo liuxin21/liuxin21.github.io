@@ -6,6 +6,6 @@ create table user(
     password varchar(20),
     name varchar(20)
 );
-insert int user values(null, "aaa", "111", "张三");
-insert int user values(null, "bbb", "222", "李四");
-insert int user values(null, "ccc", "333", "王五");
+insert into user values(null, "aaa", "111", "tom");
+insert into user values(null, "bbb", "222", "harry");
+insert into user values(null, "ccc", "333", "cat");
