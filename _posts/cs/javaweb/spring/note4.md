@@ -42,7 +42,7 @@ SqlSessionFactory factory =
     (Resources.getResourceAsStream("mybatis.xml"));
 SqlSession session = factory.openSession();
 
-List<User> userList = session.selectList("ul");
+List<User> userList = session.selectList("findAll");
 for(User u:userList){
     System.out.println(u);
 }
@@ -52,3 +52,9 @@ session.close();
 
 
 # mybatis + web
+前四步都一样，最后一步测试可以拆开到几个文件里：
+SqlSessionFactoryUtils.java, 
+InitSqlSessionListener.java,
+UserDao.java
+
+SqlSessionFactoryUtils.java
