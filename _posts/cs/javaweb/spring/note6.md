@@ -99,7 +99,7 @@ encodingFilter也可以直接使用spring提供的
 
 
 
-## 部门管理
+## 持久层
 1. 在oa_dao里的entity文件夹中创建和数据库一一对应的实体类
 Department.java里有sn, name, address
 2. dao接口和Sql映射文件
@@ -134,4 +134,81 @@ namespace就是接口的名字。
 <property name="typeAliasesPackage" value="com.imooc.oa.entity"/>
 #{sn},#{name},#{address}是Department.java的属性名，不是department表的字段名
 
+写<select>时，需要返回值，所以要确认Department.java的属性名和department表的字段名一一对应
+所以建立<resultMap>
+```xml
+<mapper namespace="com.imooc.oa.dao.DepartmentDao">
 
+    <resultMap id="department" type="Department">
+        <id property="sn" column="sn" javaType="String"/>
+        <result property="name" column="name" javaType="String"/>
+        <result property="address" column="address" javaType="String"/>
+    </resultMap>
+
+    <insert id="insert" parameterType="Department">
+        insert into department values(#{sn},#{name},#{address})
+    </insert>
+
+    <update id="update" parameterType="Department">
+        update department set name=#{name},address=#{address} where sn=#{sn}
+    </update>
+
+    <delete id="delete" parameterType="String">
+        delete from department where sn=#{sn}
+    </delete>
+
+    <select id="select" parameterType="String" resultMap="department">
+        select * from department where sn=#{sn}
+    </select>
+
+    <select id="selectAll" resultMap="department">
+        select * from department
+    </select>
+
+</mapper>
+```
+
+## 业务层
+biz接口和它的实现类
+在oa_biz的com.imooc.oa.biz包里创建接口**DepartmentBiz.java**
+```java
+public interface DepartmentBiz {
+    void add(Department department);
+    void edit(Department department);
+    void remove(String sn);
+    Department get(String sn);
+    List<Department> getAll();
+}
+```
+在子包impl中建立业务的实现类**DepartmentBizImpl.java**
+```java
+@Service("departmentBiz")
+public class DepartmentBizImpl implements DepartmentBiz {
+    @Autowired
+    private DepartmentDao departmentDao;
+
+    public void add(Department department) {
+        departmentDao.insert(department);
+    }
+
+    public void edit(Department department) {
+        departmentDao.update(department);
+    }
+
+    public void remove(String sn) {
+        departmentDao.delete(sn);
+    }
+
+    public Department get(String sn) {
+        return departmentDao.select(sn);
+    }
+
+    public List<Department> getAll() {
+        return departmentDao.selectAll();
+    }
+}
+```
+
+## 表现层
+在oa_web的controller文件夹里建立**DepartmentController.java**
+在WEB-INF里建立pages文件夹，里面放**department_list.jsp**
