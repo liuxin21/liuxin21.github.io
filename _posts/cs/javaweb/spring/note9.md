@@ -89,7 +89,7 @@ SELECT * from message;
 在ListServelet里加入jdbc设置：
 ```java
 Class.forName("com.mysql.jdbc.Driver");
-Connection conn= DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_db","root","307715");
+Connection conn= DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/shizhan?useUnicode=true&characterEncoding=UTF-8","root","307715");
 String sql = "select id,command,description,content from message";
 PreparedStatement statement = conn.prepareStatement(sql);
 ResultSet rs = statement.executeQuery();
@@ -143,4 +143,59 @@ index.jsp中第二行加入c-tag：
     </tr>
 </c:forEach>
 ```
+
+12. 列表查询功能
+在index.jsp的table上面再加一个table用来查询：
+```jsp
+<table>
+    <tr>
+        <td>指令名称：</td>
+        <td><input name="input_command" type="text" value="${command}"/></td>
+        <td>描述：</td>
+        <td><input name="input_description" type="text" value="${description}"/></td>
+        <td><input type="submit" value="查 询" /></td>
+    </tr>
+</table>
+```
+
+ListServlet.java里：
+在jdbc建立前，把form里输入的查找关键词给储存起来：
+```java
+request.setCharacterEncoding("UTF-8");
+String command = request.getParameter("input_command");
+String description = request.getParameter("input_description");
+request.setAttribute("command",command);
+request.setAttribute("description",description);
+```
+
+之前是:
+1. Class.forName, 
+2. Connection conn, 
+3. String sql, 
+4. PreparedStatement statement, 
+5. ResultSet rs,
+6. List<Message> messageList,
+7. {while(rs.next())} messageList.add(message),
+8. request.setAttribute("messageList",messageList)
+
+现在[3sql]和[4statement]与以前不同：
+```java
+StringBuilder sql =new StringBuilder("select ID,COMMAND,DESCRIPTION,CONTENT from MESSAGE where 1=1");
+List<String> paramList = new ArrayList<String>();
+if (command!=null && !"".equals(command.trim())){
+    sql.append(" and COMMAND=?");
+    paramList.add(command);
+}
+if (description != null && !"".equals(description.trim())){
+    sql.append(" and DESCRIPTION like '%' ? '%'");
+    paramList.add(description);
+}
+PreparedStatement statement = conn.prepareStatement(sql.toString());
+for (int i = 0; i < paramList.size(); i++) {
+    statement.setString(i+1,paramList.get(i));
+}
+```
+
+13. 封装
+把1-7都封装到Dao包里
 
