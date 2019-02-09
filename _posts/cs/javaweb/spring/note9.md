@@ -1,3 +1,10 @@
+---
+layout: post
+title: jdbc & mybatis
+date: 2019-01-01
+category: javaweb
+---
+
 1. 新建marven项目
 2. pom.xml: <packaging>war</packaging>
 3. main目录下有java和resources, 再建立一个webapp
