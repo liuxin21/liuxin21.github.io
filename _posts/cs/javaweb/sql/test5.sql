@@ -1,6 +1,6 @@
 create database jdbctest;
 use jdbctest;
-create table user(
+create table [user](
     uid int key auto_increment,
     username varchar(20),
     password varchar(20),
